@@ -1,0 +1,99 @@
+
+
+
+
+
+
+DeFi and Staking Projects by Ashwin Yardi
+Intro
+
+Hello, I am Ashwin Yardi! 
+
+Here is the list of Staking and DeFi projects that I have worked on.
+ 
+Some of them are still live, some of them are finished and few are non-existent now 😌
+
+
+Atomix by Fetch.ai
+
+Involved in early stage planning, prototyping, and research.
+Forked and studied multiple DeFi lending protocols like Aave, Compound, and Balancer V1.
+
+StackOS.io
+
+I was the first developer on the team.
+Developed the entire on-chain contracts and interfacing backend single handedly for MVP.
+This MVP later enabled the StackOS team to raise more than 4 Million USD.
+The smart contracts have evolved now, but the backend code that I built is still being used as is. ( As per Stackos team )
+Smart contracts involved: 
+Staking smart contract for STACK token
+Resources Manager contracts
+Streaming Payments and Subscription integrated with Staking
+STACK token
+Uni V2 LP farming contract for STACK-USDT
+
+Phoneix Staking Program  by Fetch.ai
+
+Developed the proxy staking contract that interacted with the main FET staking contract to manage MTLX distribution.
+The same contract was later used for the Atomix rewards program.
+
+Mettalex Amplify
+
+Developed the entire smart contract suite for Amplify program
+Forked the FuruCombo V1 protocol for executing a combo.
+Smart contracts included:
+FuruCombo main proxy
+Single sided Entry with ETH, swap to MTLX
+Add liquidity to Uniswap for MTLX-ETH
+Staking LP tokens in Masterchef style Staking contracts for farming.
+This program helped MTLX's price peak above 10 USD.
+
+XFai Potentializer Liquidity Generation Event
+
+Responsible for developing all of the on-chain contracts single handedly.
+Featured smart contracts:
+LP token staking contract ( Masterchef )
+Smart contract that managed the user stake, XFIT token sale, liquidity provision process and then staking again in Masterchef.
+
+UniFi DeFi Lending protocol
+
+Forked the compound protocol as it is.
+
+Open Oracle Coingecko Price Reporter
+
+Built a oracle that can be used by Compound style lending markets for reporting the prices on-chain.
+
+PolyDEX
+
+Started as a DEX, built lot of innovative features on top of uniswap v2
+First fully gasless DEX on Polygon
+Built multi reward farms and staking pools
+Later was converted to in-house DEX aggregator
+
+Cross-chain Farming
+
+Developed a novel 100% cross-chain system using Polygon FxPortals.
+
+DappFactory
+
+100% no-code smart contract as a service
+Used innovative EIPs like minimal proxies for factories
+Modular on-chain architecture. Responsible for product architecture and partly development
+Featured different types of staking pools like: Fixed APR, and multi reward staking pools
+
+Yugen Finance
+
+Responsible for ideation and the architecture of smart contracts involved.
+A novel two token system to prevent dilution and ensure minimum guaranteed price for YGN token.
+
+Mirai Protocol
+
+Fully cross-chain lending protocol built for Polygon zkEVM.
+Also participated in hackathon and won the Best DeFi project award.
+Forked and Understood the  Euler protocol smart contract end to end.
+Also developed simulation scripts to run, deploy and test the entire “Module” based system for Euler.
+
+Additional Notes:
+4 More client projects in the Defi, Staking, and NFT domains that I am leading but cannot disclose more because of NDAs
+
+I had also helped a VC called GravityX evaluate liquid staking project code on Avalaunch in the acquisition process.
