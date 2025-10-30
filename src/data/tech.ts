@@ -10,6 +10,11 @@ export const aiTechnologies: string[] = [
   "X402 payments",
   "Twitter scraper",
   "Data scrapers",
+  "RAG",
+  "Pinecone",
+  "LLMs",
+  "RLHF",
+  "Neural networks",
 ];
 
 export const web3Technologies: string[] = [

@@ -8,9 +8,9 @@ import { Separator } from "@/components/ui/separator"
 
 function MarqueeRow({ children, reverse = false, speed = 40 }: { children: React.ReactNode; reverse?: boolean; speed?: number }) {
   return (
-    <div className="relative overflow-hidden">
+    <div className="relative overflow-hidden py-2 sm:py-3">
       <motion.div
-        className="flex shrink-0 gap-4 pr-4"
+        className="flex shrink-0 items-center gap-4 pr-4"
         initial={{ x: 0 }}
         animate={{ x: reverse ? [0, "-50%"] : [0, "-50%"] }}
         transition={{ duration: speed, repeat: Infinity, ease: "linear" }}
