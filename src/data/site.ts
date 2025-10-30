@@ -72,6 +72,30 @@ export const site = {
       ],
     },
     {
+      title: "Expendzo",
+      link: "https://expendzo.com",
+      details: [
+        "Privacy-first expense tracking.",
+        "No sensitive data required; smart insights.",
+      ],
+    },
+    {
+      title: "BingeBlogs",
+      link: "https://bingeblogs.com",
+      details: [
+        "Automated blog generator.",
+        "Optimized for LLMs and LLM-SEO.",
+      ],
+    },
+    {
+      title: "Crypto Twitter AMA",
+      summary: "Ask-me-anything tool for notable crypto accounts.",
+      details: [
+        "RAG pipeline on top of historic tweets.",
+        "Realtime tweets fetching pipeline.",
+      ],
+    },
+    {
       title: "Atomix by Fetch.ai",
       logo: "/companies/fetch.png",
       details: [
